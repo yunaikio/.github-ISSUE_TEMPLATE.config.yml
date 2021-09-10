@@ -1,0 +1,1 @@
+# pacman -s git
